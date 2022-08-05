@@ -1,0 +1,19 @@
+This file contains the project's copypastable boilerplate comment headers.
+
+Boilerplate for C-like languages:
+
+/*****************************************************************************\
+ *                File Allocation Table File Systems Library.                *
+ *                                                                           *
+ *                        Copyright (C) 2022 Aquefir.                        *
+ *                        Released under BSD-2-Clause                        *
+\*****************************************************************************/
+
+Hash-based boilerplate (Python, POSIX shell, Makefile):
+
+###############################################################################
+##                File Allocation Table File Systems Library.                ##
+##                                                                           ##
+##                        Copyright (C) 2022 Aquefir.                        ##
+##                        Released under BSD-2-Clause                        ##
+###############################################################################
